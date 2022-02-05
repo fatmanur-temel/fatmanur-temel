@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<img src="https://tenor.com/view/code-programmer-jim-carrey-developer-hacker-gif-15199933">
+<img src="https://github.com/fatmanur-temel/fatmanur-temel/blob/main/code-programmer.gif?raw=true">
 </div>
 
 <div  align="center"> <img src="https://github.com/fatmanur-temel/fatmanur-temel/blob/output/github-contribution-grid-snake.svg" /></div>
